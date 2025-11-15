@@ -84,7 +84,7 @@ h2 {
   letter-spacing: 0.08em;
 }
 
-/* 荣誉卡片样式（关键修改：用aspect-ratio替代height:0，稳定16:9） */
+/* 荣誉卡片样式*/
 .container .honor-card {
   padding: 0;
   width: 100%;
